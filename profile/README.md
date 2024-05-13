@@ -1,5 +1,7 @@
+
 ## Verbify-AI
-### Descruption
+
+### Description
 - AI speech therapist built for kids with special needs powered by Gemini and African Whisper.
 
 <!--
